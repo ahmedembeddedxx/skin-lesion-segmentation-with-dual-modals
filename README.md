@@ -1,6 +1,6 @@
 # Skin Cancer Detection with 3D TBP
 
-This repository contains the implementation of various machine learning and deep learning techniques for the detection of skin cancer using 3D Texture-Based Processing (TBP). The project leverages multiple data modalities and architectures to enhance the detection accuracy and robustness.
+This repository contains the implementation of various machine learning and deep learning techniques for the detection of skin cancer using 3D Total Body Photography (TBP). The project leverages multiple data modalities and architectures to enhance the detection accuracy and robustness.
 
 ## Overview
 
