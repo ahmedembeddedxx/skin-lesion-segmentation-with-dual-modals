@@ -8,7 +8,7 @@ Skin cancer detection is a critical area in medical research. This project aims 
 
 ## Special Thanks to Collaborators
 
-tysm ![Noman Jaffer](mailto:nomanjaffar517@gmail.com) (Drop a follow on his ![linkedin](https://www.linkedin.com/in/noman-jaffar-823543254/))
+tysm [Noman Jaffer](mailto:nomanjaffar517@gmail.com) (Drop a follow on his [Linkedin](https://www.linkedin.com/in/noman-jaffar-823543254/))
 
 
 ## Architectures and Modalities
