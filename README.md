@@ -6,6 +6,11 @@ This repository contains the implementation of various machine learning and deep
 
 Skin cancer detection is a critical area in medical research. This project aims to develop an efficient and accurate detection system using state-of-the-art techniques. The implemented models include Convolutional Neural Networks (CNNs), Deep Neural Networks (DNNs), Recurrent Neural Networks (RNNs), and a variety of machine learning algorithms such as Bayes, AdaBoost, Gradient Boosting Regressor (GBR), Random Forest (RF), Balanced Random Forest (BRF), and CatBoost.
 
+## Special Thanks to Collaborators
+
+tysm ![Noman Jaffer](mailto:nomanjaffar517@gmail.com) (Drop a follow on his ![linkedin](https://www.linkedin.com/in/noman-jaffar-823543254/))
+
+
 ## Architectures and Modalities
 
 Four different modalities were used for development, each implemented in separate Jupyter notebooks. Below are the architectural images corresponding to each modality:
