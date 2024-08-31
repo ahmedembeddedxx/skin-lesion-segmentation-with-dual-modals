@@ -1,4 +1,4 @@
-# Skin Cancer Detection with 3D TBP
+# Skin Lesion Detection using Dual Modalities of Image and Vector
 
 This repository contains the implementation of various machine learning and deep learning techniques for the detection of skin cancer using 3D Total Body Photography (TBP). The project leverages multiple data modalities and architectures to enhance the detection accuracy and robustness.
 
@@ -59,8 +59,8 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/ahmedembeddedxx/skin-cancer-detection-with-3D-TBP.git
-   cd skin-cancer-detection-with-3D-TBP
+   git clone https://github.com/ahmedembeddedxx/skin-lesion-segmentation-with-dual-modals.git
+   cd skin-lesion-segmentation-with-dual-modals
    ```
 
 2. Install the required Python libraries:
